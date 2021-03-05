@@ -10,6 +10,7 @@ import edu.caltech.cs2.project08.game.Move;
 import edu.caltech.cs2.project08.game.SimpleEvaluator;
 
 public class Bot {
+    // Register your bot at http://goldendoodle.caltech.edu/
     public static final String BOT_NAME = "MyBotName";
     public static final String BOT_PASS = "MyBotPassword";
 

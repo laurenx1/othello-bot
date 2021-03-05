@@ -13,7 +13,7 @@ import java.net.*;
 import java.util.*;
 
 public class Play {
-    public static final String SERVER = "TODO";
+    public static final String SERVER = "http://goldendoodle.caltech.edu/";
     private static boolean WAITING = false;
 
     public static JSONArray bots;
